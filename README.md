@@ -1,9 +1,11 @@
 # HR Analysis with MYSQL and Power bi
+---
 
 ![PowerBI Dashboard](https://github.com/Habdoll/HR_Analytics/assets/145981715/d1386481-4271-4bc0-960f-127a714165e7)
 
 
 ### Data Used
+---
 
 #### Data : HR Data from the year 2000 to 2020.
 #### Data cleaning & Analysis : MySQL
@@ -11,6 +13,7 @@
 
 
 ## Questions
+---
   1. What is the gender breakdown of employees in the company?.
   2. What is the race/ethnicity breakdown of employees in the company?
   3. What is the age distribution of employees in the company?
@@ -25,6 +28,7 @@
 
 
 ## Summary of Findings
+---
 - There are more male employees.
 - White race is the most dominant while Native Hawaiian and American Indian are the least dominant.
 - The youngest employee is 20 years old and the oldest is 57 years old.
@@ -38,5 +42,9 @@
 
 
 ## Limitations
+---
 - Some records had negative ages and these were excluded during querying(967 records). Ages used were 18 years and above.
-- Some termdates were far into the future and were not included in the analysis(1599 records). The only term dates used were those less than or equal to the current date.
+- Some termdates were far into the future and were not included in the analysis(1599 records). The only term dates used were those     less than or equal to the current date.
+
+😄
+💻
