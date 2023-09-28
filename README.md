@@ -1,6 +1,7 @@
 # HR Analysis with MYSQL and Power bi
 
-[Untitled.pdf](https://github.com/Habdoll/HR_Analytics/files/12750356/Untitled.pdf)
+![PowerBI Dashboard](https://github.com/Habdoll/HR_Analytics/assets/145981715/d1386481-4271-4bc0-960f-127a714165e7)
+
 
 ### Data Used
 
